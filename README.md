@@ -6,7 +6,7 @@
   Support
   </h1>
 
-> Post in this repo for General support; select the [issues](https://github.com/GameServerManagers/LinuxGSM-Support) tab above.
+> Post in this repo for General support; select the [issues](https://github.com/GameServerManagers/LinuxGSM-Support/issues) tab above.
 
 # Getting Support Guide
 
