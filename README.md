@@ -84,7 +84,7 @@ Any relevant information you think will help.
 Below is a list of some of the offical and best places to get support for game servers.
 
 - [ARK: Survival Evolved](https://survivetheark.com/index.php?/forums/forum/39-server-administration/)
-- [ATLAS Dedicated Server](https://www.playatlas.com/index.php?/forums/forum/60-dedicated-server-and-developer-tools-discussion/)
+- [ATLAS](https://www.playatlas.com/index.php?/forums/forum/60-dedicated-server-and-developer-tools-discussion/)
 - [ARMA 3](https://forums.bohemia.net/forums/forum/159-arma-3-servers-administration/)
 - [Counter-Strike: Global Offensive](https://steamcommunity.com/app/730/discussions/)
 - [Counter-Strike 1.6](https://steamcommunity.com/app/10/discussions/)
